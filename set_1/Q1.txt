@@ -1,4 +1,3 @@
-To refine the previously proposed formula for evaluating the utility of a new concept relative to an existing ontology, we need to provide more specific definitions, practical measurement methods, and a clear approach for implementing the formula. Here's the improved version:
 
 1. Description of Variables
 

@@ -31,7 +31,7 @@ Potential issues include how to get the data for each factor. For example, seman
 Another thought: maybe some factors are interdependent. For example, high connectivity might imply higher complexity. But the formula treats them as separate terms. The user might need to test different configurations and validate with domain experts.
 
 In summary, the formula should balance enhancing the ontology's structure and content while avoiding redundancy and excessive complexity. The specific implementation would depend on the ontology's domain and available metrics for each factor.
-</think>
+
 
 To develop a utility function for assessing whether a new concept should be added to an existing ontology, you can define a formula that evaluates how the concept aligns with the ontology's structure, coherence, and value. Below is a proposed framework and factors to include:
 
