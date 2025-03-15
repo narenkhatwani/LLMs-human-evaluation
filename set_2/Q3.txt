@@ -1,4 +1,4 @@
-To develop a utility function for assessing whether a new concept should be added to an existing ontology, we need a formula that evaluates how the concept aligns with the ontology's structure, coherence, and value. Below is an improved framework and factors to include, addressing the critique and simplifying the approach where possible.
+To develop a utility function for assessing whether a new concept should be added to an existing ontology, we need a formula that evaluates how the concept aligns with the ontology's structure, coherence, and value. Below is a framework and factors to include, addressing the critique and simplifying the approach where possible.
 
 ---
 
