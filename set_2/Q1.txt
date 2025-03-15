@@ -1,4 +1,4 @@
-To develop a formula for evaluating the utility of a new concept relative to an existing ontology, the formula should consider several key factors that reflect the contribution, compatibility, redundancy, and impact on the coherence of the ontology. This version will address specific quantification methods, handling conflicts, and scalability issues, and will provide more guidance on the weighting coefficients and dynamic nature of ontologies. Here’s an enhanced breakdown of what the formula could look like and the factors it would consider:
+To develop a formula for evaluating the utility of a new concept relative to an existing ontology, the formula should consider several key factors that reflect the contribution, compatibility, redundancy, and impact on the coherence of the ontology. This will address specific quantification methods, handling conflicts, and scalability issues, and will provide more guidance on the weighting coefficients and dynamic nature of ontologies. Here’s an breakdown of what the formula could look like and the factors it would consider:
 
 1. Description of Variables
 
